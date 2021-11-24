@@ -5,5 +5,6 @@ relative_links:
   collections: true
 include:
   - kolloquium.md
+  - main.md
 
 theme: jekyll-theme-cayman
