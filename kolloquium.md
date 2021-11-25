@@ -1,3 +1,5 @@
+# Kolloquien
+
 Hier ein paar allgemeine Hinweise/Tips zum Kolloquium:
 * Es sind 20 Minuten Vortrag und 40-70 Minuten Fragen vorgesehen
 * Achten Sie darauf, dass Sie die Zeitvorgabe für den Vortrag exakt einhalten:
