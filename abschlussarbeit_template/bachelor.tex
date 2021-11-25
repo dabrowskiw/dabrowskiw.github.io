@@ -1,0 +1,129 @@
+\documentclass[12pt, oneside]{scrbook}
+\usepackage[onehalfspacing]{setspace}
+
+\usepackage[a4paper, inner=2.5cm ,outer=2.5cm, top=2.5cm, bottom=3cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{eurosym}
+
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+
+\usepackage[automark]{scrpage2}
+\usepackage[bottom]{footmisc}
+
+\usepackage{csquotes}
+\usepackage[style=ieee, backend=biber, bibencoding=utf8]{biblatex} % dafür brauchen Sie das Paket biblatex-ieee
+\addbibresource{bibliography.bib}
+
+\usepackage{amsmath, amssymb, amstext}
+\usepackage{url}
+\usepackage{booktabs, makecell}	
+
+\usepackage{courier}
+\usepackage{xcolor}
+
+\usepackage{listings}
+\definecolor{backgroundcolor}{rgb}{0.95, 0.95, 0.95}
+
+\lstdefinestyle{mystyle}{
+	language=Python,
+	backgroundcolor=\color{backgroundcolor},   
+	commentstyle=\color{violet},
+	keywordstyle=\color{purple},
+	numberstyle=\ttfamily\scriptsize\color{gray},
+	stringstyle=\color{cyan},
+	basicstyle=\ttfamily\footnotesize,      
+	captionpos=b,                    
+	numbers=left,                                      
+	tabsize=3,
+	breakatwhitespace=true,
+	breaklines=true,
+	showstringspaces=false
+}
+
+\lstset{style=mystyle}
+
+\renewcommand\lstlistingname{Quellcode}
+\renewcommand\lstlistlistingname{Quellcodeverzeichnis}
+
+\definecolor{green}{cmyk}{0.35, 0, 0.59, 0.32}
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=false,
+	allbordercolors={white}
+}
+
+\usepackage{wrapfig}
+\begin{document}
+	
+	\begin{titlepage}
+		\begin{figure}[t]
+			\centering
+			\includegraphics[width=0.3\textwidth]{htw_logo}
+		\end{figure}
+		\begin{center}
+			\vspace*{\fill}
+			{\LARGE \scshape \textcolor{green} {\textbf {Titel der Abschlussarbeit}}}\\[2cm]
+			
+			{\Large Abschlussarbeit}\\[0.3cm]
+			{\Large zur Erlangung des akademischen Grades:}\\[0.3cm]
+			{\Large \textbf{Bachelor/Master of Science (B./M.Sc.)}}\\[0.7cm]
+			
+			{\normalsize an der}\\[0.7cm]
+			
+			{\Large Hochschule für Technik und Wirtschaft Berlin}\\[0.3cm]	
+			{\Large Fachbereich 4: Informatik, Kommunikation und Wirtschaft}\\[0.3cm]
+			{\Large \textcolor{green} {Studiengang Angewandte Informatik}}\\[2cm]
+			
+			{\large 1. Prüfer: TITEL AKAD. GRAD NAME1}\\[0.3cm]
+			{\large 2. Prüfer: TITEL AKAD. GRAD NAME2}\\[2cm]
+			{\large Eingereicht von IHR NAME}\\[0.5cm]
+			{\normalsize \today}
+			\vfill
+		\end{center}
+	\end{titlepage}
+
+	\pagestyle{scrplain}
+	\frontmatter
+	
+	\input{abstract}
+	\tableofcontents
+	
+	\mainmatter
+%	\input{introduction}
+%       \input{...}
+	
+	\clearpage
+	\pagenumbering{Roman}
+	
+	\begingroup
+	\let\cleardoublepage\relax
+	
+	\listoffigures
+	\addcontentsline{toc}{chapter}{Abbildungsverzeichnis}
+	
+	\listoftables
+	\addcontentsline{toc}{chapter}{Tabellenverzeichnis}
+	
+	\lstlistoflistings
+	\addcontentsline{toc}{chapter}{Quellcodeverzeichnis}
+	\endgroup
+	
+	\printbibliography[heading=bibintoc, title={Literatur-und Quellenverzeichnis}]
+
+	\newpage
+	\thispagestyle{empty}
+	
+	\section*{Eidesstattliche Versicherung}
+	Hiermit versichere ich an Eides statt durch meine Unterschrift, dass ich die vorstehende Arbeit selbstständig und ohne fremde Hilfe angefertigt und alle Stellen, die ich wörtlich oder annähernd wörtlich aus Veröffentlichungen entnommen habe, als solche kenntlich gemacht habe, mich auch keiner anderen als der angegebenen Literatur oder sonstiger Hilfsmittel bedient habe. Die Arbeit hat in dieser oder ähnlicher Form noch keiner anderen Prüfungsbehörde vorgelegen.\\
+	\linebreak
+	\linebreak
+	\linebreak
+	\linebreak
+	--------------------------------------------------\linebreak
+	Datum, Ort, Unterschrift
+	
+\end{document}
