@@ -6,5 +6,6 @@ relative_links:
 include:
   - kolloquium.md
   - index.md
+  - abschlussarbeit.md
 
 theme: jekyll-theme-cayman
