@@ -14,15 +14,15 @@ Für die Betreuung von Abschlussarbeiten durch mich hier ein paar allgemeine Hin
     * Evaluation und exemplarische Implementation unterschiedlicher Softwarearchitekturen für Aspekte der Bundeshaushaltsführung
     * Implementationen von Teilen der Geschäftslogik der Bundeshaushaltsführung (beispielsweise automatische Ableitung doppischer Buchungssätze aus kameralistischen Buchungen)
 * Ich gehe bei der Bearbeitung von Abschlussarbeiten von einem hohen Grad an Selbstständigkeit aus, die Betreuung sieht wie folgt aus:
- * Wir einigen uns auf ein Thema mit:
-  * Einem MVP, welches realistisch in ca. 3 Wochen erreichbar sein sollte, um sicherzustellen, dass Sie auch wenn alles schief nach in der Bearbeitungszeit etwas haben, wozu Sie eine schöne runde Arbeit schreiben können
-  * Einem langfristigen strategischen Ziel, welches nicht realistisch in der Bearbeitungszeit erreichbar sein sollte, damit Ihnen während der Bearbeitung nicht plötzlich die Ideen ausgehen und Sie anfangen müssen, sich features aus den Fingern zu saugen
- * Dann beginnt ein iterativer Arbeitsprozess, ähnlich Sprints in SCRUM: 
-  * Wir definieren die ersten bzw. nächsten 2-3 Schritte mit konkreten Aufgaben, wobei jeder Schritt realistisch in einer Woche zu erledigen sein müsste
-  * Sie beginnen mit der Arbeit und melden sich, sobald Sie Fragen haben oder mit einem Schritt fertig sind
-  * Wir setzen uns zusammen und reden über den aktuellen Stand der Arbeit
-  * Wir beginnen den nächsten Zyklus (reden also über die nächsten konkreten Schritte)
- * Manche brauchen häufigere Rücksprachen, manche machen direkt ein paar Schritte hintereinander und melden sich nur alle paar Wochen, beides ist vollkommen in Ordnung - ich renne Ihnen aber nicht hinterher und frage nach einer Rücksprache oder dem Zwischenstand, wann Sie input brauchen entscheiden Sie selber. Ich empfehle aber sehr stark, zumindest am Anfang mindestens jede Woche eine Rücksprache zu machen.
+  * Wir einigen uns auf ein Thema mit:
+    * Einem MVP, welches realistisch in ca. 3 Wochen erreichbar sein sollte, um sicherzustellen, dass Sie auch wenn alles schief nach in der Bearbeitungszeit etwas haben, wozu Sie eine schöne runde Arbeit schreiben können
+    * Einem langfristigen strategischen Ziel, welches nicht realistisch in der Bearbeitungszeit erreichbar sein sollte, damit Ihnen während der Bearbeitung nicht plötzlich die Ideen ausgehen und Sie anfangen müssen, sich features aus den Fingern zu saugen
+  * Dann beginnt ein iterativer Arbeitsprozess, ähnlich Sprints in SCRUM: 
+    * Wir definieren die ersten bzw. nächsten 2-3 Schritte mit konkreten Aufgaben, wobei jeder Schritt realistisch in einer Woche zu erledigen sein müsste
+    * Sie beginnen mit der Arbeit und melden sich, sobald Sie Fragen haben oder mit einem Schritt fertig sind
+    * Wir setzen uns zusammen und reden über den aktuellen Stand der Arbeit
+    * Wir beginnen den nächsten Zyklus (reden also über die nächsten konkreten Schritte)
+  * Manche brauchen häufigere Rücksprachen, manche machen direkt ein paar Schritte hintereinander und melden sich nur alle paar Wochen, beides ist vollkommen in Ordnung - ich renne Ihnen aber nicht hinterher und frage nach einer Rücksprache oder dem Zwischenstand, wann Sie input brauchen entscheiden Sie selber. Ich empfehle aber sehr stark, zumindest am Anfang mindestens jede Woche eine Rücksprache zu machen.
 * Ich empfehle für die Zeitplanung, die letzten 4 Wochen der Bearbeitungszeit für die Verfassung der schriftlichen Arbeit zu reservieren.
 * Ich zwinge Sie nicht, in LaTeX zu schreiben, empfehle dies aber sehr stark (insbesondere in Verbindung mit dem bibtex-Export von Zotero). Zum einfachen Schreiben in LaTeX bietet sich [Overleaf](https://www.overleaf.com/) an. Ein LaTeX-Template (mit herzlichem Dank an Frau Marie Bittiehn) finden Sie in [diesem Repository](https://github.com/dabrowskiw/dabrowskiw.github.io/tree/main/abschlussarbeit_template).
 
@@ -30,13 +30,13 @@ Für die Betreuung von Abschlussarbeiten durch mich hier ein paar allgemeine Hin
 
 Folgendes ist für die Benotung von Abschlussarbeiten zu beachten:
 * Achten Sie bitte unbedingt auf eine korrekte Zitierweise! 
- * Schlechte Zitierweise kostet Punkte, im schlimmsten Fall (Plagiat) wird die Arbeit als Betrugsversuch gewertet. 
- * Ich fordere keinen konkreten Zitierstil, empfehle aber sehr den [IEEE-Stil](https://www.bath.ac.uk/publications/library-guides-to-citing-referencing/attachments/ieee-style-guide.pdf) sowie die Verwendung eines Literaturmanagementtools wie bspw. [Zotero](https://www.zotero.org/)
- * Bitte füllen Sie zur automatisierten Plagiatsprüfung das entsprechende [Einwilligungsformular](https://bibliothek.htw-berlin.de/fileadmin/HTW/Zentral/ZE_Hochschulbibliothek/Dokumente/Ouriginal/Einwilligung_zur_elektronischen_Plagiatspruefung_Version_006-1.pdf) aus und schicken Sie es direkt mit, wenn Sie mir den Antrag auf Zulassung zur Abschlussarbeit zur Unterschrift schicken.
+  * Schlechte Zitierweise kostet Punkte, im schlimmsten Fall (Plagiat) wird die Arbeit als Betrugsversuch gewertet. 
+  * Ich fordere keinen konkreten Zitierstil, empfehle aber sehr den [IEEE-Stil](https://www.bath.ac.uk/publications/library-guides-to-citing-referencing/attachments/ieee-style-guide.pdf) sowie die Verwendung eines Literaturmanagementtools wie bspw. [Zotero](https://www.zotero.org/)
+  * Bitte füllen Sie zur automatisierten Plagiatsprüfung das entsprechende [Einwilligungsformular](https://bibliothek.htw-berlin.de/fileadmin/HTW/Zentral/ZE_Hochschulbibliothek/Dokumente/Ouriginal/Einwilligung_zur_elektronischen_Plagiatspruefung_Version_006-1.pdf) aus und schicken Sie es direkt mit, wenn Sie mir den Antrag auf Zulassung zur Abschlussarbeit zur Unterschrift schicken.
 * Ich bin ein Freund des prägnanten Schreibens - schreiben Sie die für das Verständnis wesentlichen Sachen so auf, dass sie für die Lesenden verständlich sind, aber vermeiden Sie überflüssige Wiederholungen etc. Ich finde einen Seitenumfang von ca. 25 Seiten angebracht, ab 35 Seiten vermute ich stark, dass Sie kürzen könnten, ab 50 Seiten schicke ich Ihnen die Arbeit ungelesen mit dem Kommentar "bitte kürzen" zurück (falls es eine Korrekturfassung ist) bzw. ziehe Punkte ab (falls es die eingereichte Version ist).
 * Denken Sie daran, dass Sie die Arbeit nicht schreiben, um mir zu beweisen, dass Sie das Thema verstanden haben, sondern um Ihre Arbeit den Lesenden zu vermitteln:
- * Erzählen Sie eine Story (was ist das Problem, was und warum ist Ihr Lösungsansatz, welche Technologien verwenden Sie und wieso, wie haben Sie die Lösung implementiert/gefunden, was ist am Ende rausgekommen, was haben Sie dabei gelernt?).
- * Achten Sie darauf, dass die Lesenden jederzeit wissen, warum sie das, was Sie gerade lesen, interessieren sollte - gute Überleitungen zwischen Absätzen bzw. einleitende Sätze in Unterabschnitten sind Gold wert
+  * Erzählen Sie eine Story (was ist das Problem, was und warum ist Ihr Lösungsansatz, welche Technologien verwenden Sie und wieso, wie haben Sie die Lösung implementiert/gefunden, was ist am Ende rausgekommen, was haben Sie dabei gelernt?).
+  * Achten Sie darauf, dass die Lesenden jederzeit wissen, warum sie das, was Sie gerade lesen, interessieren sollte - gute Überleitungen zwischen Absätzen bzw. einleitende Sätze in Unterabschnitten sind Gold wert
 * Der Transparenz halber habe ich eine Bewertungsmatrix, diese finden Sie hier:
 
 | Bereich | Erreichbare Punkte  |
